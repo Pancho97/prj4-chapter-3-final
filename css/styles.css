@@ -1,0 +1,26 @@
+.my-class {
+    color: red;
+    border: 1px solid blue;
+    background-color: lightblue;
+    padding-top: 0.5em;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    padding-bottom: 0.5em;
+    text-align: center;
+}
+.id {
+    color: green;
+    background-color: lightblue;
+    padding-left: 0.5em;
+    text-align: center;
+}
+.id2 {
+    border: 2px solid green;
+    color: blue;
+    padding-top: 0.9em;
+    padding-right: 0.9em;
+    padding-left: 0.9em;
+    padding-bottom: 0.9em;
+    background-color: transparent;
+    text-align: right;
+}
