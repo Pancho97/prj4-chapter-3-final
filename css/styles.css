@@ -17,6 +17,7 @@
 .id2 {
     border: 2px solid green;
     color: blue;
-    padding: 0.5;
+    padding: 0.5em;
     background-color: #F5F1F1;
+    text-align: left;
 }
