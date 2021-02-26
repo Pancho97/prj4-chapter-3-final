@@ -10,14 +10,15 @@
 }
 .id-1st {
     color: green;
-    background-color: #FFFFFF;
     padding: 0.5em;
+    border: 2px solid green;
     text-align: left;
+    background-color: #A7C8C9;
 }
 .id-2nd {
     border: 2px solid green;
     color: blue;
     padding: 0.5em;
-    background-color: #F5F1F1;
+    background-color: #A7C8C9;
     text-align: left;
 }
