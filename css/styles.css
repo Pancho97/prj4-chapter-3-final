@@ -1,5 +1,5 @@
-
  * { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
 .my-class {
     color: red;
     border: 1px solid blue;
@@ -24,3 +24,10 @@
     background-color: #A7C8C9;
     text-align: left;
 }
+body h3 {
+    background-color: #927E46;
+}
+body {
+    background-image: url(../images/backround.jpg);
+}
+
