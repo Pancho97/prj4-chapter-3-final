@@ -11,14 +11,14 @@
     padding-bottom: 0.5em;
     text-align: center;
 }
-.id-1st {
+#id-main {
     color: green;
     padding: 0.5em;
     border: 2px solid green;
     text-align: left;
     background-color: #A7C8C9;
 }
-.id-2nd {
+#id-2nd {
     border: 2px solid green;
     color: blue;
     padding: 0.5em;
