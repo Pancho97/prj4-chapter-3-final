@@ -28,6 +28,10 @@
 	
 	font-family: 'Roboto', sans-serif;
 }
+
+h1, h2, h3 {font-family: 'Roboto', sans-serif;
+}
+	
 body h3 {
     background-color: #927E46;
 	
