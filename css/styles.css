@@ -24,11 +24,15 @@
     padding: 0.5em;
     background-color: #A7C8C9;
     text-align: left;
+	
+	font-family: 'Roboto', sans-serif;
 }
 body h3 {
     background-color: #927E46;
+	
 }
 body {
     background-image: url(../images/backround.jpg);
+	font-family: 'Roboto', sans-serif;
 }
 
